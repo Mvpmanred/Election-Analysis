@@ -35,7 +35,9 @@ County votes results:
 
 - The winner of the election was:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
-  ![Capturec3](https://user-images.githubusercontent.com/92561493/141717055-5c65aaa1-5945-40a9-bbb9-9b874cecfdba.PNG)
+### Summary of the election
+![Capturec3](https://user-images.githubusercontent.com/92561493/141717150-25147400-a5c8-4e78-ba0c-ddd6b5a4fe80.PNG)
+
 
 ## Challenge Overview
 

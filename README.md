@@ -16,10 +16,15 @@ A Colorado Board of Election employee has given you the following tasks to compl
 ## Summary
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
+County votes results:
+- Arapahoe had 6.7% (24,801 votes)
+- Jefferson had 10.5% (38,855 votes) 
+- Denver had 82.8% (306,055 votes)
+Denver had the most popular votes. It had total 306,055 votes or 82.8% of votes in this election.
 - The candidates were:
-    - Candidate 1
-    - Candidate 2
-    - Candidate 3
+    - Charles Casper Stockham
+    - Diana DeGette
+    - Raymon Anthony Doane
 
 - The candidate results were:
     - Candidate 1 received "x%" of the vote and "y" number of votes.

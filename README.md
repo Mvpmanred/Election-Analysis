@@ -16,7 +16,7 @@ A Colorado Board of Election employee has given you the following tasks to compl
 ## Summary
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
-County votes results:
+- County votes results:
 - Arapahoe had 6.7% (24,801 votes)
 - Jefferson had 10.5% (38,855 votes) 
 - Denver had 82.8% (306,055 votes)

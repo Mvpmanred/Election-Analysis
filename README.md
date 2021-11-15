@@ -20,6 +20,7 @@ The analysis of the election show that:
     - Candidate 1
     - Candidate 2
     - Candidate 3
+  
 -The candidate results were:
    - Candidate 1 received "x%" of the vote and "y" number of votes.
    - Candidate 2 received "x%" of the vote and "y" number of votes.

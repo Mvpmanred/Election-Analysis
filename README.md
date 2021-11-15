@@ -16,10 +16,10 @@ A Colorado Board of Election employee has given you the following tasks to compl
 ## Summary
 The analysis of the election show that:
 - There were 369,711 votes
-- The Three candidates were:
-    -Candidate 1
-    -Candidate 2
-    -Candidate 3
+- The candidates were:
+    - Candidate 1
+    - Candidate 2
+    - Candidate 3
 -The candidate results were:
    - Candidate 1 received "x%" of the vote and "y" number of votes.
    - Candidate 2 received "x%" of the vote and "y" number of votes.

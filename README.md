@@ -40,5 +40,6 @@ County votes results:
 
 
 ## Challenge Overview
-
+  The purpose of this challenge is to use python skills to analyze election data for counties and candidates. We can clean out the data and find useful statistical information from the dataset. We could take a step further to use the statistical information to construct a more intuitive and consice data visualization.
 ## Challenge Summary
+  We can set this python script as blueprint to work on other elections. For example school board election, we could change "County" to "distict" and keep same script for candidates. We need to make a few chagnes on the script then we can obtain similar statistical information from dataset to analyze the data.

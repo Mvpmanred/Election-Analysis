@@ -20,7 +20,9 @@ County votes results:
 - Arapahoe had 6.7% (24,801 votes)
 - Jefferson had 10.5% (38,855 votes) 
 - Denver had 82.8% (306,055 votes)
-Denver had the most popular votes. It had total 306,055 votes or 82.8% of votes in this election.
+
+  Denver had the most popular votes. It had total 306,055 votes or 82.8% of votes in this election.
+
 - The candidates were:
     - Charles Casper Stockham
     - Diana DeGette

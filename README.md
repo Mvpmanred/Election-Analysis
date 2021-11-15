@@ -29,12 +29,12 @@ County votes results:
     - Raymon Anthony Doane
 
 - The candidate results were:
-    - Candidate 1 received "x%" of the vote and "y" number of votes.
-    - Candidate 2 received "x%" of the vote and "y" number of votes.
-    - Candidate 3 received "x%" of the vote and "y" number of votes.
+    - Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
+    - Diana DeGette received "73.8%%" of the vote and "272,892" number of votes.
+    - Raymon Anthony Doane received "3.1%" of the vote and "11,606" number of votes.
 
 - The winner of the election was:
-    - Candidate (1,2, or 3), who received "x%" of the vote and "y" number of votes.
+    - Diana DeGette, who received "73.8%" of the vote and "272,892" number of votes.
   
 ## Challenge Overview
 
